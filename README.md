@@ -18,3 +18,11 @@ Attached, CSVs of ABC7NY and KCRA (from Sacramento), spanning July 18 to January
 - Weather is huge in local news. Does the data bear that out?
 
 - Any statistical regressions we might do to reveal interesting trends, patterns or outliers?
+
+This was used to setup the git account. 
+
+```sh
+git remote add origin https://github.com/mjfrigaard/inspecting-local-tv-news-websites.git
+git push -u origin master
+```
+
